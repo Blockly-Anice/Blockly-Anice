@@ -105,7 +105,7 @@ Hello! I’m Anice, a full-stack developer who enjoys building practical, user-f
 ###
 <h2 align="center">Profile View</h1>
 <div align="center">
-  <img src="https://count.getloli.com/@:RikuSato0?name=%3ARikuSato0&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:RikuSato0?name=%3ARikuSato0&theme=gelbooru&padding=7&offset=1&align=center&scale=2&pixelated=2&darkmode=0"  />
 </div>
 
 ###
