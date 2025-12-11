@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Nong Van Hieu, a full-stack developer who enjoys building practical, user-friendly web applications without the unnecessary complications that many tools introduce. I created the OlovaJS UI Framework because, frankly, the existing options felt bloated and inefficient—so I made something better.<br><br>I’m expanding my backend capabilities to deliver more complete, end-to-end solutions. I value clarity, performance, and tools that actually help developers instead of slowing them down. With OlovaJS, my goal is simple: empower developers worldwide with a framework that gets out of their way and lets them build.
+Hello! I’m Anice Pony, a full-stack developer who enjoys building practical, user-friendly web applications without the unnecessary complications that many tools introduce. I created the OlovaJS UI Framework because, frankly, the existing options felt bloated and inefficient—so I made something better.<br><br>I’m expanding my backend capabilities to deliver more complete, end-to-end solutions. I value clarity, performance, and tools that actually help developers instead of slowing them down. With OlovaJS, my goal is simple: empower developers worldwide with a framework that gets out of their way and lets them build.
 
 
 # 💻 Tech Stack:
